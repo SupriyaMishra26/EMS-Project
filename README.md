@@ -2,8 +2,13 @@ It is JDBC and servlet project of employee Authentication and management for thi
 
 1) create database and table using these command mysql workbench
 
+(i)
 create database EMS
+
+(ii)
 use Ems
+
+(iii)
 CREATE TABLE product (
     empid INT,
     ename VARCHAR(25),
